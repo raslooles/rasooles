@@ -1,7 +1,5 @@
 # rasooles
 # NAME: YouTube
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2023-10-28 02:09:52
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 178
