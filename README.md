@@ -1,6 +1,5 @@
 # rasooles
 # NAME: YouTube
-# AUTHOR: blackmatrix7
 # UPDATED: 2023-10-28 02:09:52
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 178
